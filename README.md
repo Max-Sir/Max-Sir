@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name's Max , I'm 19 y.o. have strong knowledge at <h1><b><i>Kotlin, Android, Java, Python, Jetpack, Dagger, C++.</i></b><h1>
+My name's Max , I'm 19 y.o. have strong knowledge at <h4><b><i>Kotlin, Android, Java, Python, Jetpack, Dagger, C++.</i></b><h4>
 
 - 🔭 I’m currently working at ISsoft | Coherent Solutions as Android Developer
 - 🌱 I’m currently learning Flutter, IOS, Swift
