@@ -14,5 +14,6 @@ My name's Max , I'm 20 y.o. have strong knowledge at <h2><b><i>Kotlin, Android, 
 - Languages : English C1 proficiency,
               Deutsch A2 proficiency
               Русский C2 native
+              Polski  A1 newbie
 
     <a href="https://www.linkedin.com/in/maxim-syromolotov-1892421b2/"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fwww.efset.org%2Fcert%2FPW4TEB&4&0" width="148" height="148" border="0" title="QR код"></a>
