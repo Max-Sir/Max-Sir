@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name's Max , I'm Senior Android Software Egineer with 4.5 years working experience on different projects.
+My name's Max , I'm Senior Android Software Egineer with 5 years working experience on different projects.
 
 - 🔭 I’m currently working in Poland at Andersen Lab as a Senior Android Software Egineer 
   
