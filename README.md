@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name's Max , I'm Senior Android Software Egineer with 6 years working experience on different projects.
 
-- 🔭 I’m currently working in Poland at Andersen Lab as a Senior Android Software Egineer 
+- 🔭 I’m currently working at Innowise Group as a Senior Android Egineer and Team Lead
   
   <a href="https://andersenlab.com/"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fandersenlab.com%2F&6&0" width="132" height="132" border="0" title="QR код"></a>
 - 🌱 I’m currently learning KMM, Compose, Swift
