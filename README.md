@@ -9,4 +9,3 @@ My name's Max , I'm Senior Android Software Egineer with 6 years working experie
               Deutsch B1 proficiency 
               Polski  B1 proficiency
 </pre>
-<a href="https://www.linkedin.com/in/maksim-syramalotau/"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fwww.efset.org%2Fcert%2FPW4TEB&4&0" width="148" height="148" border="0" title="QR код"></a>
