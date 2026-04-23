@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name's Max , I'm Senior Android Software Egineer with 6 years working experience on different projects.
+My name's Max , I'm Senior Android Software Egineer with 8 years working experience on different projects.
 - 🌱 I’m currently learning KMM, Compose, Swift
 - 💬 Ask me about <a href="https://www.linkedin.com/in/maksim-syramalotau/">LinkedIn<img align="center" width="30" height="30" src="https://markinickerson.com/wp-content/uploads/2020/03/linkedin-icon-300x300.png" class="attachment-medium size-medium" alt="Mark Nickerson on Linkedin" loading="lazy"></a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/maksim-syramalotau/">LinkedIn<img align="center" width="30" height="30" src="https://markinickerson.com/wp-content/uploads/2020/03/linkedin-icon-300x300.png" class="attachment-medium size-medium" alt="Mark Nickerson on Linkedin" loading="lazy"></a>
